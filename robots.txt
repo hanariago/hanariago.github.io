@@ -1,0 +1,30 @@
+# hanariago.github.io — 호스트 전체 robots (이 위치가 유일하게 유효한 robots.txt)
+User-agent: *
+Allow: /
+
+# AI 검색/LLM 크롤러 명시 허용
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://hanariago.github.io/sitemap.xml

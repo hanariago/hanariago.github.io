@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap><loc>https://hanariago.github.io/tool-char-counter/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://hanariago.github.io/tool-bg-remover/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://hanariago.github.io/tool-qr-generator/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://hanariago.github.io/tool-image-resize/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://hanariago.github.io/tool-json-formatter/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://hanariago.github.io/tool-dev-utils/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://hanariago.github.io/tool-md-viewer/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://hanariago.github.io/tool-dot-sprite-editor/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://hanariago.github.io/tool-svg-utils/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://hanariago.github.io/tool-diff-checker/sitemap.xml</loc></sitemap>
+  <sitemap><loc>https://hanariago.github.io/tool-pdf-translate/sitemap.xml</loc></sitemap>
+</sitemapindex>
